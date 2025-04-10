@@ -3,7 +3,7 @@
 
 работает в telegram
 
-ссылка на проект: https://web.telegram.org/a/#7928694349
+ссылка на проект: https://t.me/Ladapomochik_bot
 
 скриншоты моего приложения:
 ![Иллюстрация к проекту](https://github.com/Tatyana3335/ai_assistent/blob/main/%D0%9B%D0%B0%D0%B4%D0%B0.png?raw=true)
