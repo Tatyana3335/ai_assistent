@@ -7,9 +7,9 @@
 
 скриншоты моего приложения:
 
-https://github.com/Tatyana3335/ai_assistent/blob/main/%D0%9B%D0%B0%D0%B4%D0%B0.png?raw=true
+![Скриншот 1](https://github.com/Tatyana3335/ai_assistent/blob/main/%D0%9B%D0%B0%D0%B4%D0%B0.png?raw=true)
 
-https://github.com/Tatyana3335/ai_assistent/blob/main/%D0%9B%D0%B0%D0%B4%D0%B0%202.png?raw=true
+![Скриншот 2](https://github.com/Tatyana3335/ai_assistent/blob/main/%D0%9B%D0%B0%D0%B4%D0%B0%202.png?raw=true)
 
 ## Описание проекта
 
